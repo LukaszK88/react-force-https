@@ -1,0 +1,21 @@
+{
+  "name": "@powala/force-https",
+  "version": "1.0.0",
+  "description": "Https redirect for react application written in TS",
+  "main": "index.ts",
+  "keywords": [
+    "react",
+    "typescript",
+    "http",
+    "https"
+  ],
+  "peerDependencies": {
+    "react": ">=15"
+  },
+  "author": "Lukasz Kowal",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.6.0",
+    "react": "^16.13.1"
+  }
+}
