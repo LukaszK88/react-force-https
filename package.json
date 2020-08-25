@@ -1,6 +1,6 @@
 {
   "name": "@powala/force-https",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Https redirect for react application written in TS",
   "main": "index.ts",
   "repository": {
