@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Https redirect for react application written in TS",
   "main": "index.ts",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/LukaszK88/react-force-https"
+  },
   "keywords": [
     "react",
     "typescript",
